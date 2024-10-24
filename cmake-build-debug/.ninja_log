@@ -1,0 +1,8 @@
+# ninja log v6
+1	42	1726867220898254481	CMakeFiles/Assignment_2.dir/main.c.o	1f30d536f45cd416
+1	36	1726867263637547876	CMakeFiles/Assignment_2.dir/thread_function.c.o	ab2f134993f43f53
+36	73	1726867263672635838	Assignment_2	694ee3007c1ab4dc
+2	45	1726867431463755839	CMakeFiles/Assignment_2.dir/thread_function.c.o	ab2f134993f43f53
+46	83	1726867431507683947	Assignment_2	694ee3007c1ab4dc
+2	48	1726867778192494237	CMakeFiles/Assignment_2.dir/main.c.o	1f30d536f45cd416
+48	85	1726867778239302268	Assignment_2	694ee3007c1ab4dc

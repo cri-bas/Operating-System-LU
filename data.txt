@@ -1,0 +1,7 @@
+hello there
+
+this is a test data file
+
+to check how many lines are in a file
+
+using the program in this folder
