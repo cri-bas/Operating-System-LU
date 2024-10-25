@@ -1,4 +1,4 @@
-# Install script for directory: /Users/franciscobarrera/Library/CloudStorage/OneDrive-LamarUniversity/Lamar Unviersity School Work/Fall 2024/Operating Systems/Homework/Assignment 2
+# Install script for directory: /Users/franciscobarrera/Library/CloudStorage/OneDrive-LamarUniversity/Lamar Unviersity School Work/Fall 2024/Operating Systems/Operating-System-LU
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/franciscobarrera/Library/CloudStorage/OneDrive-LamarUniversity/Lamar Unviersity School Work/Fall 2024/Operating Systems/Homework/Assignment 2/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/franciscobarrera/Library/CloudStorage/OneDrive-LamarUniversity/Lamar Unviersity School Work/Fall 2024/Operating Systems/Operating-System-LU/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
